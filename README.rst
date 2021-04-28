@@ -1,6 +1,7 @@
 example.java.helloworld
 =======================
 
+This is added by KM
 This is "Hello World" Example for Java.
 
 The structure ``HelloWorld`` package is like this: ::
