@@ -6,5 +6,6 @@ public class Test
     {
         System.out.println("Test");
         System.out.println("Test1");
+        System.out.println("syntax error);
     }
 }
